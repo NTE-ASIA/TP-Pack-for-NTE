@@ -1,2 +1,3 @@
-# TP-Pack-for-NTE
-I hope this is helpful to you
+# TP Pack for NTE
+ use for pipsi
+https://discord.com/invite/tPKFCs4VbB
