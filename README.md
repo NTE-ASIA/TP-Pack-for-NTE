@@ -1,3 +1,2 @@
-# TP Pack for NTE
- use for pipsi
+Let's use pipsi
 https://discord.com/invite/tPKFCs4VbB
