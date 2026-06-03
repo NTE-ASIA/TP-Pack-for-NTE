@@ -216,13 +216,13 @@ New Herland District, -51777.25, 80135.96, 4195.0586
 New Herland District, -8079.01, 86641.61, 8900
 
 ===== [AreaID 009] Sunni Island (10) =====
- Sunni Island, -252298.0 345275.0 2574.0
- Sunni Island, -266296.0 349694.0 3820.0
- Sunni Island, -247301.0 362722.0 9669.0
- Sunni Island, -279619.0 336635.0 2706.0
- Sunni Island, -270032.0 362882.0 6028.0
- Sunni Island, -284481.0 348129.0 2412.0
- Sunni Island, -272040.7 372942.3 2435.0
- Sunni Island, -255139.73 370226.47 2567.0
- Sunni Island, -220821.0 357406.0 2316.0
- Sunni Island, -247101.0 358066.0 6884.0
+Sunni Island, -252298.0 345275.0 2574.0
+Sunni Island, -266296.0 349694.0 3820.0
+Sunni Island, -247301.0 362722.0 9669.0
+Sunni Island, -279619.0 336635.0 2706.0
+Sunni Island, -270032.0 362882.0 6028.0
+Sunni Island, -284481.0 348129.0 2412.0
+Sunni Island, -272040.7 372942.3 2435.0
+Sunni Island, -255139.73 370226.47 2567.0
+Sunni Island, -220821.0 357406.0 2316.0
+Sunni Island, -247101.0 358066.0 6884.0
