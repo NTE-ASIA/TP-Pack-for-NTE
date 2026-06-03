@@ -1,4 +1,4 @@
-===== Bridge Crossings (12) =====
+===== [AreaID 001] Bridge Crossings (12) =====
 Bridge Crossings, -85033, 164306, 4145
 Bridge Crossings, -94547.81, 152264.42, 4460
 Bridge Crossings, -107157, 178322, 5991
@@ -12,7 +12,7 @@ Bridge Crossings, -138612.33, 156323, 11679.063
 Bridge Crossings, -120449.13, 185925.28, 6164.7744
 Bridge Crossings, -122050.12, 157677.16, 10191.343
 
-===== Unheard Shores (10) =====
+===== [AreaID 002] Unheard Shores (10) =====
 Unheard Shores, -133166.77, 211515.77, 10053.232
 Unheard Shores, -156187, 192335, 9155
 Unheard Shores, -160672.34, 185034.47, 8731.181
@@ -24,7 +24,7 @@ Unheard Shores, -207103.34, 194420.88, 7580.4897
 Unheard Shores, -195948.88, 187649.28, 8195.819
 Unheard Shores, -135163.34, 233795.75, 2297.2031
 
-===== Illusion Town (22) =====
+===== [AreaID 003] Illusion Town (22) =====
 Illusion Town, -133883.95, 87773.28, 7401
 Illusion Town, -177635, 139925, 6670
 Illusion Town, -190992.78, 106092.055, 7293.229
@@ -48,7 +48,7 @@ Illusion Town, -114686.49, 64953.535, 8743
 Illusion Town, -129422.164, 127231.37, 6887.033
 Illusion Town, -92390.125, 98009.84, 6146.8135
 
-===== Miguel District (15) =====
+===== [AreaID 004] Miguel District (15) =====
 Miguel District, -86507.61, 54871.918, 7765.289
 Miguel District, 25357.828, 17938.23, 7615.1255
 Miguel District, -32339.379, 23817.607, 7839.8066
@@ -65,7 +65,7 @@ Miguel District, 44262.848, 44706.184, 5167.631
 Miguel District, -35119.113, 1556.9196, 8407.936
 Miguel District, -51895.586, 48805.98, 12800.701
 
-===== New Herland District (20) =====
+===== [AreaID 005] New Herland District (20) =====
 New Herland District, -6455.5786, 134891.2, 6327.8857
 New Herland District, -35466.31, 70899.63, 6526.751
 New Herland District, -76631.55, 70690.11, 10574.595
@@ -86,3 +86,14 @@ New Herland District, 1427.8304, 89998.79, 12682
 New Herland District, -23773, 137868, 5498
 New Herland District, 32752.479, 102596.484, 8451
 New Herland District, -12394, 110283, 11595
+
+===== [AreaID 009] Sunni Island (10) =====
+Sunni Island, -272889.12 357857.16 4189.441
+Sunni Island, -254083.44 348657.38 2471.9438
+Sunni Island, -261452.72 376996.44 2240.0466
+Sunni Island, -277313.0 366220.94 2344.7974
+Sunni Island, -260811.66 354673.34 3209.0
+Sunni Island, -283243.03 349340.94 2298.9536
+Sunni Island, -249772.38 365132.9 3957.2988
+Sunni Island, -252787.44 361558.0 5715.0
+Sunni Island, -242273.3 372106.56 2255.0
