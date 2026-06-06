@@ -1,4 +1,4 @@
-===== Bridge Crossings (19) =====
+===== [AreaID 001] Bridge Crossings (19) =====
 Bridge Crossings, -99906.0, 166601.0, 4246.0
 Bridge Crossings, -96307.99, 155090.22, 5301.0
 Bridge Crossings, -120485.0, 168079.0, 7111.0
@@ -19,12 +19,12 @@ Bridge Crossings, -115685.42, 154151.72, 5831.0
 Bridge Crossings, -125689.0, 187518.0, 7177.0
 Bridge Crossings, -89954.64, 131951.66, 9570.0
 
-===== Unheard Shores (3) =====
+===== [AreaID 002] Unheard Shores (3) =====
 Unheard Shores, -149937.56, 220863.34, 11702.0
 Unheard Shores, -135214.0, 206577.0, 10319.0
 Unheard Shores, -192910.1, 215582.47, 17929.143
 
-===== Illusion Town (20) =====
+===== [AreaID 003] Illusion Town (20) =====
 Illusion Town, -148020.2, 139229.45, 7121.0
 Illusion Town, -169903.0, 110007.0, 7231.0
 Illusion Town, -147308.0, 96467.0, 7310.0
@@ -46,7 +46,7 @@ Illusion Town, -138418.0, 126473.0, 6776.0
 Illusion Town, -176555.0, 123155.0, 7162.0
 Illusion Town, -123696.03, 50454.66, 7853.0
 
-===== Miguel District (10) =====
+===== [AreaID 004] Miguel District (10) =====
 Miguel District, -77241.0, 47615.0, 7802.0
 Miguel District, 11717.0, 49511.0, 8321.0
 Miguel District, -46504.0, -11601.0, 7912.0
@@ -58,7 +58,7 @@ Miguel District, -75502.0, 42722.0, 7787.0
 Miguel District, -34123.0, 33068.0, 7780.0
 Miguel District, -21429.545, 6299.1294, 8930.0
 
-===== New Herland District (10) =====
+===== [AreaID 005] New Herland District (10) =====
 New Herland District, -65723.61, 84555.83, 6221.76
 New Herland District, 27299.0, 118534.0, 7177.0
 New Herland District, 20564.0, 58829.0, 6355.0
